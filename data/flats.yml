@@ -1,0 +1,90 @@
+ssaunier:
+  name: "Sebastien's home"
+  description: "Charming room in Montmartre"
+  city_name: "Paris, France"
+  city_slug: "paris"
+  wifi: false
+  rating: 4
+  information: nThis one bedroom studio lodges 2 people (there's 1 double bed) it is located in the city center, in a calm traditional residential area near city´s main Avenue - 3 minutes walk from Sacré Coeur.
+  accomodates: 2
+  bathrooms: 1
+  bed_type: "Real Beds"
+  bedrooms: 2
+  beds: 2
+  property_type: "Apartments"
+  room_type: "Entire home/ Apt"
+papillard:
+  name: "Boris' home"
+  description: Small flat in Tokyo
+  city_name: "Tokyo, Japan"
+  city_slug: "tokyo"
+  wifi: true
+  rating: 3
+  information: nThis one bedroom studio lodges 2 people (there's 1 double bed) it is located in the city center, in a calm traditional residential area near city´s main Avenue - 3 minutes walk from Sacré Coeur.
+  accomodates: 2
+  bathrooms: 1
+  bed_type: "Real Beds"
+  bedrooms: 2
+  beds: 2
+  property_type: "Apartments"
+  room_type: "Entire home/ Apt"
+monsieurpaillard:
+  name: Romain's home
+  description: Nice flat in Piccadilly
+  city_name: "London, UK"
+  city_slug: "london"
+  wifi: true
+  rating: 5
+  information: nThis one bedroom studio lodges 2 people (there's 1 double bed) it is located in the city center, in a calm traditional residential area near city´s main Avenue - 3 minutes walk from Sacré Coeur.
+  accomodates: 2
+  bathrooms: 1
+  bed_type: "Real Beds"
+  bedrooms: 3
+  beds: 1
+  property_type: "Apartments"
+  room_type: "Entire home/ Apt"
+nicolevel:
+  name: "Nicole's home"
+  description: "Charming room in China"
+  city_name: "Shanghai, China"
+  city_slug: "shanghai"
+  wifi: false
+  rating: 4
+  information: nThis one bedroom studio lodges 2 people (there's 1 double bed) it is located in the city center, in a calm traditional residential area near city´s main Avenue - 3 minutes walk from Sacré Coeur.
+  accomodates: 2
+  bathrooms: 1
+  bed_type: "Real Beds"
+  bedrooms: 2
+  beds: 2
+  property_type: "Apartments"
+  room_type: "Entire home/ Apt"
+Kayracz:
+  name: "Kayras' home"
+  description: Small flat in Copacabana
+  city_name: "Rio de Janeiro, Brazil"
+  city_slug: "rio"
+  wifi: true
+  rating: 3
+  information: nThis one bedroom studio lodges 2 people (there's 1 double bed) it is located in the city center, in a calm traditional residential area near city´s main Avenue - 3 minutes walk from Sacré Coeur.
+  accomodates: 2
+  bathrooms: 1
+  bed_type: "Real Beds"
+  bedrooms: 2
+  beds: 2
+  property_type: "Apartments"
+  room_type: "Entire home/ Apt"
+sebas:
+  name: Sebas's home
+  description: Nice flat in Cote d'Azur
+  city_name: "Marseille, France"
+  city_slug: "marseille"
+  wifi: true
+  rating: 5
+  information: nThis one bedroom studio lodges 2 people (there's 1 double bed) it is located in the city center, in a calm traditional residential area near city´s main Avenue - 3 minutes walk from Sacré Coeur.
+  accomodates: 2
+  bathrooms: 1
+  bed_type: "Real Beds"
+  bedrooms: 2
+  beds: 2
+  property_type: "Apartments"
+  room_type: "Entire home/ Apt"
